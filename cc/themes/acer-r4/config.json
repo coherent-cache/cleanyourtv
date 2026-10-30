@@ -1,0 +1,16 @@
+{
+  "dock_apps": [
+    "org.jellyfin.androidtv",
+    "com.netflix.ninja",
+    "com.amazon.amazonvideo.livingroom",
+    "com.apple.atve.androidtv.appletv",
+    "in.startv.hotstar",
+    "com.google.android.youtube.tv"
+  ],
+  "hidden_apps": ["com.apps.livetv"],
+  "live_tv_package": "com.apps.livetv",
+  "columns": 6,
+  "icon_only_buttons": true,
+  "wifi_label_width": 300,
+  "tile_menu": true
+}
